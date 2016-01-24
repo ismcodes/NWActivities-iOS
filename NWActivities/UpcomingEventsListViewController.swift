@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  NWActivities
 //
 //  Created by Isaac Moldofsky on 1/24/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class UpcomingEventsListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
